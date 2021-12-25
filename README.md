@@ -10,4 +10,4 @@
 
 - cd API
 - go run main.go
-- curl http://localhost:9002 --header 'Token: <Token>'
+- curl http://localhost:9002 --header 'Token: _Token from jwtCreator_ '
